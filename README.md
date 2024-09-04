@@ -1,8 +1,8 @@
+<div classname="text-center">
+  
+<h1>Golang Simple Document</h1>
 
-<div>
-<h1>Golang Simple Document</h1>h1
-
-maybe u don't get it,I know that.
-I don't Get it too💀
+<p>maybe u don't get it,I know that.</p>
+<p>I don't Get it too💀</p>
 
 </div>
